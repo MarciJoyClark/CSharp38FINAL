@@ -1,0 +1,6 @@
+F:\Users\Marcsquiskeeiey\TechAcademy\MathOptional\MathOptional\bin\Debug\MathOptional.exe.config
+F:\Users\Marcsquiskeeiey\TechAcademy\MathOptional\MathOptional\bin\Debug\MathOptional.exe
+F:\Users\Marcsquiskeeiey\TechAcademy\MathOptional\MathOptional\bin\Debug\MathOptional.pdb
+F:\Users\Marcsquiskeeiey\TechAcademy\MathOptional\MathOptional\obj\Debug\MathOptional.csprojResolveAssemblyReference.cache
+F:\Users\Marcsquiskeeiey\TechAcademy\MathOptional\MathOptional\obj\Debug\MathOptional.exe
+F:\Users\Marcsquiskeeiey\TechAcademy\MathOptional\MathOptional\obj\Debug\MathOptional.pdb
